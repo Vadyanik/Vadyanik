@@ -1,6 +1,8 @@
-# ❄️ [Your Name]
+<img src="https://fauux.neocities.org/loveLain.gif" align="right" width="250" />
 
-**NixOS Enthusiast | Neovim Power User | [Your Role, e.g., Backend Developer]**
+# ❄️ Vadyanik
+
+**NixOS Enthusiast | Neovim Power User | [Your Role]**
 
 ---
 
@@ -9,7 +11,7 @@ I believe in reproducibility and terminal-centric productivity. My environment i
 
 * **OS:** [NixOS](https://nixos.org/) (Declarative, unshakeable, and snowflake-free)
 * **Editor:** [Neovim](https://neovim.io/) (Lua-powered and lightning fast)
-* **Config:** Managed via **Flakes** and **Home Manager**
+* **Config:** Managed via **Flakes**
 
 > "If it isn't in my `configuration.nix`, it doesn't exist."
 
@@ -24,8 +26,4 @@ I believe in reproducibility and terminal-centric productivity. My environment i
 ---
 
 ### 📂 Explore My Dots
-Looking for my configuration? Check out my **[dotfiles](https://github.com/YOUR-USERNAME/dotfiles)** repository to see how I break (and fix) my system.
-
----
-
-[Website](https://your-site.com) • [LinkedIn](https://linkedin.com/in/your-profile) • [Twitter](https://twitter.com/your-handle)
+Looking for my configuration? Check out my **[nixos configuration](https://github.com/Vadyanik/nixos)** repository to see how I break (and fix) my system.
