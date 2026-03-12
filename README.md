@@ -9,7 +9,9 @@
 ---
 
 ### 📊 System Stats
-![Rebuilds](https://img.shields.io/badge/System%20Rebuilds-45-blue?style=flat-square&logo=nixos)
+![Rebuilds](https://img.shields.io/badge/System%20Rebuilds-25-blue?style=flat-square&logo=nixos)
+![Rebuilds Per Day](https://img.shields.io/badge/Avg%20Rebuilds%2FDay-0.0-orange?style=flat-square)
+![Last Rebuild](https://img.shields.io/badge/Last%20Rebuild-never-green?style=flat-square)
 ---
 
 ### 💻 The Workflow
