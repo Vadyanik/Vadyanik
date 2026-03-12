@@ -1,6 +1,8 @@
-<img src="https://fauux.neocities.org/loveLain.gif" align="right" />
+
 
 # ❄️ Vadyanik
+
+<img src="https://fauux.neocities.org/loveLain.gif" align="right" />
 
 **NixOS Enthusiast**
 
