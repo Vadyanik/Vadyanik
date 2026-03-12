@@ -12,6 +12,7 @@
 ![Rebuilds](https://img.shields.io/badge/System%20Rebuilds-27-blue?style=flat-square&logo=nixos)
 ![Rebuilds Per Day](https://img.shields.io/badge/Avg%20Rebuilds%2FDay-1.0-orange?style=flat-square)
 ![Last Rebuild](https://img.shields.io/badge/Last%20Rebuild-2026--03--12%2013:40-green?style=flat-square)
+
 ---
 
 ### 💻 The Workflow
