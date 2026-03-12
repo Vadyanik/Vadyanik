@@ -1,4 +1,4 @@
-<img src="https://fauux.neocities.org/loveLain.gif" align="right" width="250" />
+<img src="https://fauux.neocities.org/loveLain.gif" align="right" width="500" />
 
 # ❄️ Vadyanik
 
