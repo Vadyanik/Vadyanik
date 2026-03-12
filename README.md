@@ -8,6 +8,10 @@
 
 ---
 
+### 📊 System Stats
+![Rebuilds](https://img.shields.io/badge/System%20Rebuilds-0-blue?style=flat-square&logo=nixos)
+---
+
 ### 💻 The Workflow
 I believe in reproducibility and terminal-centric productivity. My environment is defined by:
 
