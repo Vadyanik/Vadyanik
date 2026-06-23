@@ -9,9 +9,9 @@
 ---
 
 ### 📊 System Stats
-![Rebuilds](https://img.shields.io/badge/System%20Rebuilds-182-blue?style=flat-square&logo=nixos)
-![Rebuilds Per Day](https://img.shields.io/badge/Avg%20Rebuilds%2FDay-1.44-orange?style=flat-square)
-![Last Rebuild](https://img.shields.io/badge/Last%20Update-19.06.2026%2017:10-blue?style=flat-square)
+![Rebuilds](https://img.shields.io/badge/System%20Rebuilds-183-blue?style=flat-square&logo=nixos)
+![Rebuilds Per Day](https://img.shields.io/badge/Avg%20Rebuilds%2FDay-1.40-orange?style=flat-square)
+![Last Rebuild](https://img.shields.io/badge/Last%20Update-23.06.2026%2023:41-blue?style=flat-square)
 
 ---
 
